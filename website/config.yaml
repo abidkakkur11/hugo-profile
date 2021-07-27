@@ -1,4 +1,4 @@
-baseURL: "https://linkedin.com/in/abidkp"
+baseURL: "https:/https://abidkp.netlify.app"
 languageCode: "en-us"
 title: "Abid KP"
 
@@ -23,8 +23,6 @@ params:
 
   # Navbar Menus
   customMenus:
-    - name: "Blog"
-      Url: "/blog"
   # home
   disable_home: false
   profile_image: "/images/avatar2.jpg"
