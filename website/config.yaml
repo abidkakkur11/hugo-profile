@@ -14,7 +14,7 @@ taxonomies:
   //tag: "tags"
   //category: "categories"
 
-enableEmoji: true
+enableEmoji: false
 params:
   version: 3
 
