@@ -95,11 +95,6 @@ params:
   # Projects
   disable_projects: false
   projects:
-    - name: "Audio Visualiser Using Python"
-      img: /images/project.jpg
-      githublink: "https://github.com/abidkakkur11/Audio-visualizer-web-app"
-      //featuredlink: "/"
-      description: "Music Visualiser Web App using python This project is used to visualise a given music or any audio. The music can be choosed from our system file"
 
   # Achievements
   disable_achievements: false
