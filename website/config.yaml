@@ -134,4 +134,4 @@ params:
 
   # Blog
   showdescription: false
-  tweet: false
+  tweet: true
