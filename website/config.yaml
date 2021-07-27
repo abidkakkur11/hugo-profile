@@ -36,7 +36,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Abid KP, A tech enthusiast,Designer As well as..!"
+  descripe_l1_person: "Hi, I'm Abid KP, A Tech Enthusiast, Designer As well as..!"
   descripe_l2_person: "Check out my blogs [here](https://abidkp.wordpress.com)"
   skills:
     - name: C
