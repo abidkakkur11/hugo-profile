@@ -108,7 +108,7 @@ params:
       description: "Music Visualiser Web App using python This project is used to visualise a given music or any audio. The music can be choosed from our system file"
 
   # Achievements
-  disable_achievements: false
+  disable_achievements: on
   achievements:
     - title: Digital Skills Hackathone
       description: Won digital skills hackathon conducted by Tinkerhub & Ilab.
@@ -134,4 +134,4 @@ params:
 
   # Blog
   showdescription: false
-  tweet: true
+  tweet: false
