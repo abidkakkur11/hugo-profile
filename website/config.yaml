@@ -1,4 +1,4 @@
-baseURL: "https://profile.gurusabarish.tech"
+baseURL: "https://linkedin.com/in/abidkp"
 languageCode: "en-us"
 title: "Abid KP"
 
@@ -14,11 +14,11 @@ taxonomies:
   //tag: "tags"
   //category: "categories"
 
-enableEmoji: false
+enableEmoji: true
 params:
   version: 3
 
-  //favicon: "/images/fav.png"
+  favicon: "/images/fav.png"
   //description: "A high performance hugo theme for personal portfolio and blog."
 
   # Navbar Menus
