@@ -51,7 +51,7 @@ params:
       percentage: 75
     - name: Hugo
       percentage: 80
-    - name: Graphiv Design
+    - name: Graphic Design
       percentage: 80
 
   # Experience
@@ -87,13 +87,13 @@ params:
       university: "Board of Technical Education Kerala"
       startedyear: "2018"
       graduation: "2021"
-    - degree: "B.tech(Drop Out)"
+    - degree: "B.Tech(Drop Out)"
       branch: "Computer Engineering"
       university: "Vishwesaraiah Technological University"
       startedyear: "2015"
       graduation: "2017"
-    - degree: "Plus Two Science"
-      //branch: "Information Technology"
+    - degree: "Plus Two"
+      branch: "Science"
       university: "Nanminda HSS"
       startedyear: "2013"
       graduation: "2015"
@@ -104,7 +104,7 @@ params:
     - name: "Audio Visualiser Using Python"
       img: /images/project.jpg
       githublink: "https://github.com/abidkakkur11/Audio-visualizer-web-app"
-      featuredlink: "/"
+      //featuredlink: "/"
       description: "Music Visualiser Web App using python This project is used to visualise a given music or any audio. The music can be choosed from our system file"
 
   # Achievements
@@ -113,13 +113,13 @@ params:
     - title: Digital Skills Hackathone
       description: Won digital skills hackathon conducted by Tinkerhub & Ilab.
       img: /images/achiv.jpg
-    - //title: Competition winner
+    //- //title: Competition winner
       //description: We are developed a product which can help others.
       //img: /images/achiv.jpg
-    - //title: Competition winner
+    //- //title: Competition winner
       //description: We are developed a product which can help others.
       //img: /images/achiv.jpg
-    - //title: Competition winner
+    //- //title: Competition winner
       //description: We are developed a product which can help others.
       //img: /images/achiv.jpg
 
@@ -130,8 +130,8 @@ params:
 
   # Footer
   socialiconfooter: true
-  recentposts: true
+  recentposts: false
 
   # Blog
   showdescription: false
-  tweet: true
+  tweet: false
