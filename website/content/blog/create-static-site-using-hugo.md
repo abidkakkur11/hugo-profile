@@ -34,9 +34,9 @@ lets start the steps..
 * pick your repository with the hugo theme..
 * type exampleSite/config.toml & check for config
 * -> config file found...!
-* click on next, 4 options will come.. marl all as completed..
-* goto coniguration,choose your site,
-* change URL, with netlify.com subdomain(ex:your_site_name.netlify.com) & save
+* click on next, 4 options will come.. mark all as completed..
+* goto configuration,choose your site,
+* change URL, with netlify.com subdomain (ex:your_site_name.netlify.com) & save
 * open a new tab and goto netlify.com 
 * choose "new site from git",choose github and grant authorisation
 * click on your site repository(select),then "deploy site"
