@@ -1,5 +1,5 @@
 ---
-title: "Create a static webssite using Hugo"
+title: "Create a static website using Hugo"
 date: 2021-04-03T22:53:58+05:30
 draft: false
 github_link: "https://github.com/abidkakkur11"
