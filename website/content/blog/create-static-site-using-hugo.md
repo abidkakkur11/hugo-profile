@@ -43,8 +43,8 @@ lets start the steps..
 * on the next window goto site settings change site name popup and change the name as your wish..
 * when it's done click on deploy..
 * you can see the stage of site deploying, once completed you can preview the site with the provided link.
-* goto your guthub repository 
-* find "config.toml" file in it.. edit it to change the saite as your need..!
+* goto your github repository 
+* find "config.toml" file in it.. edit it to change the site as you need..!
 * done...! Thank You..
 For the video tutorial link provided
  https://youtu.be/ResipmZmpDU
