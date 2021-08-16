@@ -38,11 +38,9 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Abid KP, A Tech Enthusiast, Designer As well as..!
-  I have been involving in the area of IT since last 5 years. From my school periods
-onwards.I started my research and self-studying in programming. I got many
-opportunities to participate and showcase my skills in different competition and
-events.
+  descripe_l1_person: "Hi, I'm Abid KP, A Tech Enthusiast,as well as a Designer.
+  I have been in the stream of technology for the last 5 years. From my school days onwards, I Started my research and self-studying in programming. I got many
+opportunities to participate and showcase my skills in different competition and events.
 "
   descripe_l2_person: "Check out my blogs [here](https://abidkp.wordpress.com)"
   skills:
