@@ -27,7 +27,7 @@ params:
     Url: "/blog"
   # home
   disable_home: false
-  profile_image: "/images/avatar2.jpg"
+  profile_image: "/images/yellow.jpg"
   name: "Muhammed Abid KP"
   profession: "Programmer | Designer | Freelancer"
   github: "https://github.com/abidkakkur11"
