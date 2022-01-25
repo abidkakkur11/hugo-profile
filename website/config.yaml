@@ -48,7 +48,9 @@ params:
       percentage: 80
     - name: Python
       percentage: 75
-    - name: OOP
+    - name: Javascript
+      percentage: 80
+    - name: HTML & CSS
       percentage: 80
     - name: Graphic Design
       percentage: 80
