@@ -59,9 +59,13 @@ params:
   disable_experience: false
   experience:
     - company: "Mozilor Technologies"
-      role: "Software Developer Intern"
+      role: "Front End Developer Intern"
       startdate: Dec 2021
       enddate: Feb 2021
+    - company: "Agile Algorithm"
+      role: "Junior Web Developer"
+      startdate: Feb 2021
+      enddate: 
 
   # Education
   disable_education: false
