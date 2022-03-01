@@ -61,8 +61,7 @@ params:
     - company: "Agile Algorithm"
       role: "Junior Web Developer"
       startdate: Feb 2022
-      enddate: present
-   
+      enddate: present   
     - company: "Mozilor Technologies"
       role: "Front End Developer Intern"
       startdate: Dec 2021
