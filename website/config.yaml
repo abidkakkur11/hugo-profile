@@ -61,10 +61,7 @@ params:
     - company: "Mozilor Technologies"
       role: "Front End Developer Intern"
       startdate: Dec 2021
-      enddate: Feb 2021
-    - company: "Mozilor Technologies"
-      role: "Front End Developer Intern"
-      startdate: Dec 2021  
+      enddate: Feb 2021  
 
   # Education
   disable_education: false
