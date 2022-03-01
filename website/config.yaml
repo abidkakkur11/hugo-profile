@@ -65,7 +65,7 @@ params:
     - company: "Agile Algorithm"
       role: "Junior Web Developer"
       startdate: Feb 2021
-      enddate: 
+      enddate: ""
 
   # Education
   disable_education: false
