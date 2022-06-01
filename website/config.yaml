@@ -18,7 +18,7 @@ enableEmoji: true
 params:
   version: 3
 
-  favicon: "/images/fav.png"
+  favicon: "/images/fav.webp"
   //description: "A high performance hugo theme for personal portfolio and blog."
 
   # Navbar Menus
@@ -27,7 +27,7 @@ params:
     Url: "/blog"
   # home
   disable_home: false
-  profile_image: "/images/yellow.jpg"
+  profile_image: "/images/yellow.webp"
   name: "Muhammed Abid KP"
   profession: "Developer | Designer | Freelancer"
   github: "https://github.com/abidkakkur11"
