@@ -38,22 +38,19 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Abid KP, A Tech Enthusiast,as well as a Designer.
-  I have been in the stream of technology for the last 5 years.
-  From my school days onwards, I started my research and self-studying in programming.
-  I got many opportunities to participate and showcase my skills in different competition and events."
+  descripe_l1_person: "WordPress developer with a successful track record in website management and development along with SEO optimization skills. Skilled in the design, plug-ins, and implementation of WordPress websites. Passionate about building interactive, engaging websites. Excel in teamwork. Additionally good at developing custom code-level front-end using a range of modern technologies."
   descripe_l2_person: "Check out my blogs [here](https://abidkp.wordpress.com)"
   skills:
-    - name: C
+    - name: Wordpress
       percentage: 80
-    - name: Python
-      percentage: 75
+    - name: PHP
+      percentage: 55
     - name: Javascript
       percentage: 80
     - name: HTML & CSS
       percentage: 80
-    - name: Graphic Design
-      percentage: 80
+    - name: Wordpress Security
+      percentage: 70
 
   # Experience
   disable_experience: false
@@ -61,7 +58,7 @@ params:
     - company: "Agile Algorithm"
       role: "Junior Web Developer"
       startdate: Feb 2022
-      enddate: present   
+      enddate: Oct 2022   
     - company: "Mozilor Technologies"
       role: "Front End Developer Intern"
       startdate: Dec 2021
@@ -70,6 +67,11 @@ params:
   # Education
   disable_education: false
   education:
+      - degree: "Bachelor's"
+      branch: "Computer Applications"
+      university: "IGNOU Open University"
+      startedyear: "2022"
+      graduation: "2025"
     - degree: "Diploma"
       branch: "Computer Engineering"
       university: "GOVERNMENT POLYTECHNIC COLLEGE,MEPADI"
@@ -80,11 +82,6 @@ params:
       university: "KNS INSTITUTE OF TECHNOLOGY,BANGALORE"
       startedyear: "2015"
       graduation: "2017"
-    - degree: "Plus Two"
-      branch: "Science"
-      university: "Nanminda HSS"
-      startedyear: "2013"
-      graduation: "2015"
 
   # Projects
   disable_projects: false

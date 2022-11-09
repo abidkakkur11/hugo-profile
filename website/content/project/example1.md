@@ -1,9 +1,9 @@
 ---
-title: "Library Management"
+title: "Afrikan Adventure"
 date: 2021-05-04T11:30:13+05:30
 draft: false
-img: /images/project.jpg
-description: "Library Management is my college project to manage the books and users in Library"
-github: https://github.com/abidkakkur11/Library-Management-College-Project-
-featured: /
+img: /images/afrikanadventure.png
+description: "The CMS Wwebsite for the Afrikan Adventure Travell Company"
+github: "#"
+featured: https://www.afrikanadventure.co/
 ---
