@@ -38,7 +38,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "WordPress developer with a successful track record in website management and development along with SEO optimization skills. Skilled in the design, plug-ins, and implementation of WordPress websites. Passionate about building interactive, engaging websites. Excel in teamwork. Additionally good at developing custom code-level front-end using a range of modern technologies."
+  descripe_l1_person: "WordPress developer with a successful track record in website management and development along with SEO optimization skills.Skilled in the design, plug-ins, and implementation of WordPress websites. Passionate about building interactive, engaging websites. Excel in teamwork. Additionally good at developing custom code-level front-end using a range of modern technologies."
   descripe_l2_person: "Check out my blogs [here](https://abidkp.wordpress.com)"
   skills:
     - name: Wordpress
