@@ -29,7 +29,7 @@ params:
   disable_home: false
   profile_image: "/images/yellow.webp"
   name: "Muhammed Abid KP"
-  profession: "Developer | Designer | Freelancer"
+  profession: "Web Developer| Freelancer"
   github: "https://github.com/abidkakkur11"
   linkedin: "https://linkedin.com/in/abidkp"
   twitter: "https://twitter.com/Abidkkr"
@@ -55,6 +55,10 @@ params:
   # Experience
   disable_experience: false
   experience:
+      - company: "UAds Influencer"
+      role: "Web Developer"
+      startdate: Oct 2022
+      enddate:
     - company: "Agile Algorithm"
       role: "Junior Web Developer"
       startdate: Feb 2022
